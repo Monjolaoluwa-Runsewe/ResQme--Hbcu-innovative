@@ -2,7 +2,7 @@
 
 **ResQ Me** is an AI-powered personal safety application that enables hands-free emergency alerts with intelligent audio analysis, real-time location sharing, and automated notifications to emergency contacts.
 
-> Built for the **HBCU Innovation Challenge**
+> ResQme was developed as a team project for the Innovate Alabama Entrepreneurship Hackathon, where our team was selected as a finalist among 100+ teams. I served as Lead Developer and contributed to the mobile application architecture, serverless alert pipeline, native Android integrations, and AI-powered audio processing.
 
 ---
 
